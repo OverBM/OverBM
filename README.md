@@ -101,7 +101,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- Final -->
-  <img src="https://i.pinimg.com/originals/29/9f/18/299f18589b70050383afe3235279702b.gif" width="200"/>
+  <img src="https://static.wikia.nocookie.net/deltarune/images/4/49/Tenna_dance_2_.gif/revision/latest?cb=20250705204540" width="300"/>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </samp>
