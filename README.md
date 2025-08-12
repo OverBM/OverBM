@@ -80,7 +80,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OverBM&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OverBM&theme=tokyonight" width="45%"/>
+<!-- (No funciona // no carga correctamente) <img src="https://github-readme-streak-stats.herokuapp.com/?user=OverBM&theme=tokyonight" width="45%"/> -->
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverBM&theme=tokyonight&layout=compact" width="45%" />
