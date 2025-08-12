@@ -30,7 +30,7 @@
     <b>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
   <h2 style="color: #fc6203">D E S C R I P T I O N &nbsp;</h2></b>
-    <img src="https://media.tenor.com/wjpwB5zggAMAAAAi/sans.gif" width="200"/>
+    <img src="https://media.tenor.com/z9umvtmSRK8AAAAj/gerson-deltarune.gif" width="200"/>
 
 <!-- Lenguajes y Herramientas -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
