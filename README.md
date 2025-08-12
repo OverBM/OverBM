@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/OverBM?label=follow&style=social" />
   </a>
   <br><br>
-  <img src="https://media.tenor.com/_SuJ4KMqUEgAAAAi/pixel-riding-bike.gif" width="200"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2021/09/sans-icegif-1.gif" width="250"/>
 </p>
 
 <!-- Comentario: puedes agregar en la línea 6 el siguiente enlace si lo deseas más adelante
